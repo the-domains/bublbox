@@ -1,0 +1,14 @@
+layout_spectrum: 0.1771871
+typography_spectrum: 0.6439594
+color:
+  saturation: 0.02321371
+  lightness: 0.4368375
+  brandStrength: 0.1230522
+  rhythmicContrast: 0.7474301
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: 'Bublbox '
